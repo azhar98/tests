@@ -1,0 +1,15 @@
+.container {
+    border: 2px solid blue;
+}
+.row {
+    border: 3px solid black;
+}
+.logo {
+    color: white;
+}
+.nabs ul>li>a{
+color: white  !important;
+}
+.nabs ul>li>a:hover {
+    color: blue !important;
+}
